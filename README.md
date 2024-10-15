@@ -12,7 +12,7 @@
   
 - 👯 I’m looking to collaborate on **Flutter Projects**
   
-- 👨‍💻 All of my projects are available at [linkedin.com/in/mohtashim-shaikh-5504b521b](linkedin.com/in/mohtashim-shaikh-5504b521b)
+- 👨‍💻 All of my projects are available at https://www.linkedin.com/in/mohtashim-shaikh-5504b521b
 
 - 💬 Ask me about **Flutter, Dart and Firebase**
 
